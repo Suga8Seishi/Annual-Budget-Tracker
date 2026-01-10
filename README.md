@@ -1,4 +1,4 @@
-# 📊 Advanced Annual Budget Tracker (Python 3.14)
+# 📊 Annual Budget Tracker (Python 3.14)
 
 A comprehensive financial tool built with Python to manage and visualize your annual savings. This script doesn't just calculate numbers; it processes, stores, and visualizes your financial data for a full year.
 
