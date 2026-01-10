@@ -17,8 +17,3 @@ A comprehensive financial tool built with Python to manage and visualize your an
   - `json`: For structured data storage.
   - `matplotlib`: For high-quality data visualization.
 - **Logic:** Applied lists for data tracking, f-string formatting, and complex conditional statements.
-
-## 🚀 How to Run
-1. **Install Dependencies:**
-   ```bash
-   pip install matplotlib
